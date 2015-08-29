@@ -7,8 +7,6 @@ Live demo [here](http://dfilaretti.github.io/software/RavePainter/web-export/)
 
 Screencast [here](https://www.youtube.com/watch?v=6PG5SSjGSA8)
 
-Screenshots:
-
 <img src="screenshots/screenshot-1.png" align="center" width="60%" height="60%">
 
 <img src="screenshots/screenshot-2.png" align="center" width="60%" height="60%">
